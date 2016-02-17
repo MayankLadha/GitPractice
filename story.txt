@@ -1,5 +1,6 @@
 this is line 1.
 this is line 2. from master.
 this is line 3. from branch1.
-this is line 4. form master.
-this is line 5. from branch1.
+this is line 4. form master. editing...
+this is line 5. from master again...
+this is line 6. from branch1.
